@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamkumarAnand
-- 👀 I’m interested in Web Development ,Machine Learning.
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Learning Web Development.
+- 👀 I’m FrontEnd Web Development Engineer.
+- 🌱 I’m currently learning TensorFlow.
+- 💞️ I’m looking to collaborate on Learning Web Development and Developing ML Models.
 - 📫 How to reach me ishubham11anand@gmail.com
 
 <!---
