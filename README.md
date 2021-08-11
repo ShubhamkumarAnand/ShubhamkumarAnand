@@ -1,6 +1,6 @@
 ### Hi there, I'm Shubham 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/imskanand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimskanand&screen_name=imskanand)
-[![GitHub ShubhamkumarAnand](https://img.shields.io/github/followers/ShubhamkumarAnand?label=follow&style=social&color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/ShubhamkumarAnand)
+[![GitHub ShubhamkumarAnand](https://img.shields.io/github/followers/ShubhamkumarAnand?label=follow&style=social&color=1DA1F2&style=for-the-badge)](https://github.com/ShubhamkumarAnand)
 
 
 
