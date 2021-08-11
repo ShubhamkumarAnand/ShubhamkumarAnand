@@ -54,6 +54,23 @@ const thai = {
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+---
+<a href="https://github.com/ShubhamkumarAnand/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.ShubhamkumarAnand.vercel.app/api?username=ShubhamkumarAnand&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shubham's github stats" />
+</a>
+<a href="https://github.com/ShubhamkumarAnand/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.ShubhamkumarAnand.vercel.app/api/top-langs/?username=ShubhamkumarAnand&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/ShubhamkumarAnand/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.ShubhamkumarAnand.vercel.app/api/pin/?username=ShubhamkumarAnand&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/ShubhamkumarAnand/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.ShubhamkumarAnand.vercel.app/api/pin/?username=ShubhamkumarAnand&repo=ShubhamkumarAnand.github.io&theme=material-palenight" />
+</a>
 
 <!---
 ShubhamkumarAnand/ShubhamkumarAnand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
