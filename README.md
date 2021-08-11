@@ -1,4 +1,5 @@
-### Hi there, I'm Shubham 👋
+### <h2> Hi there, I'm Shubham 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/imskanand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimskanand&screen_name=imskanand)
 [![GitHub ShubhamkumarAnand](https://img.shields.io/github/followers/ShubhamkumarAnand?label=follow&logo=github&color=1DA1F2&style=for-the-badge)](https://github.com/ShubhamkumarAnand)
 
@@ -14,6 +15,28 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me via Twitter
 
+<br />
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, CSS, C++, C, Python, Java],
+  tools: [React, Redux, Node, Styled-Components, Git &Github, Linux, Docker],
+  Currently Working : {
+                       Main: "MERN Stack Web Development",
+                       Algorithimic: "Machine Learning",
+                       Future: "Hybrid App Development"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on MERN Stack"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+<br />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -28,8 +51,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
 
 ---
 
