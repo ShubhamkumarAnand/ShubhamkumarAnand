@@ -1,7 +1,6 @@
 ### Hi there, I'm Shubham 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/imskanand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimskanand&screen_name=imskanand)
-[![Linkedin: shubham-kumar-anand-19b52618b ](https://img.shields.io/badge/-shubham-kumar-anand-19b52618b-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-kumar-anand-19b52618b/)](https://www.linkedin.com/in/shubham-kumar-anand-19b52618b/)
-[![GitHub ShubhamkumarAnand](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub ShubhamkumarAnand](https://img.shields.io/github/followers/ShubhamkumarAnand?label=follow&style=social)](https://github.com/ShubhamkumarAnand)
 
 
 
