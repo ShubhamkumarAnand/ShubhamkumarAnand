@@ -5,13 +5,13 @@
 
 
 
-## I'm a Computer Science Student, Web Developer, and Believer in Advanced Future!!
+## I'm a Computer Science Student, Web Developer , Believer in Advanced & Better Future!!
 
 - 👋 Hi, I’m @ShubhamkumarAnand
 - 👀 I’m FrontEnd Web Development Engineer.
 - 🌱 I’m currently learning TensorFlow.
 - 💞️ I’m looking to collaborate on Learning Web Development and Developing ML Models.
-- - 👯 I’m looking to collaborate with other content creators
+-  👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me via Twitter
 
