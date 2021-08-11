@@ -20,13 +20,13 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const pandey = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, C++, C, Python, Java],
-  tools: [React, Redux, Node, Styled-Components, Git &Github, Linux, Docker],
+  code: [Javascript, Typescript, HTML, CSS, C++, C, Python, Java, MySQL],
+  tools: [React,  Node, Tailwind, PHP, Git &Github, Linux, Docker],
   Currently Working : {
                        Main: "MERN Stack Web Development",
-                       Algorithimic: "Machine Learning",
+                       Algorithimic: "Machine Learning & Competitive Programming",
                        Future: "Hybrid App Development"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on MERN Stack"
