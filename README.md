@@ -1,21 +1,45 @@
-### <h2> Hi there, I'm Shubham 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello!+I%27m+Shubham.">
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
+</div>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/imskanand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimskanand&screen_name=imskanand)
-[![GitHub ShubhamkumarAnand](https://img.shields.io/github/followers/ShubhamkumarAnand?label=follow&logo=github&color=1DA1F2&style=for-the-badge)](https://github.com/ShubhamkumarAnand)
-<a href="https://www.linkedin.com/in/shubham-kumar-anand-19b52618b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> 
+### <h1> I'm Shubham Kumar Anand 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+## A Computer Science Student and Full Stack Developer.
 
-## I'm a Computer Science Student, Web Developer , Believer in Advanced & Better Future through use of computers!!
-
-- 👋 Hi, I’m @ShubhamkumarAnand
-- 👀 I’m Full Stack Web Developer.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Learning Web Developmet project which can solve the real world Problem.
+- 🌱 I’m currently learning Flutter App Development.
+- 💞️ I’m looking to collaborate on Learning Web Development project which can solve the real world Problem.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me via Twitter
+- 📫 Reach me via Twitter LinkedIn & G-Mail
+
+<div>
+ <img src="https://komarev.com/ghpvc/?username=ShubhamkumarAnand&style=plastic">
+ <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShubhamkumarAnand">
+</div>
 
 <br />
 
-### Skills
+## &#x1f4c8; GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamkumarAnand&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamkumarAnand&hide=jupyter%20notebook&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" height="175px">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=radical" width="60%">
+</div>
+<hr>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ShubhamkumarAnand&theme=react-dark&hide_border=true&area=true">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamkumarAnand&theme=discord&column=8">
+</div>
+
+## 🔧 Technologies & Tools I can work with :
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -46,28 +70,35 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
+## Little More 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const pandey = {
+const imskanand = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, C++, C, Python, Java, MySQL, Dart],
-  tools: [React, Flutter, Node, Tailwind, PHP, Git &Github, Linux, Docker],
+  tools: [React, Flutter, Node, Tailwind, PHP, Git & Github, Linux, Docker],
   Currently Working : {
                        Main: "MERN Stack Web Development",
-                       Algorithimic: "Machine Learning & Competitive Programming",
-                       Future: "Hybrid App Development"
+                       Good At: "Data Structure and Algorithm",
+                       Future: "Making Impact with the Technology"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on MERN Stack"
+ challenge: "Writing technical blog and Connecting the people"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</>
+## 📬: Reach me out!
+
+<div align='center'>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/imskanand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimskanand&screen_name=imskanand)
+[![GitHub ShubhamkumarAnand](https://img.shields.io/github/followers/ShubhamkumarAnand?label=follow&logo=github&color=1DA1F2&style=for-the-badge)](https://github.com/ShubhamkumarAnand)
+<a href="https://www.linkedin.com/in/shubham-kumar-anand-19b52618b/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-ShubhamKumarAnand-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"  height="28" /></a>
+<a href="mailto:ishubham11anand@gmail.com">
+  <img src="https://img.shields.io/badge/-ishubham11anand-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"  height="28">
+</a>
+</div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people with different Ideas to change the world</>
   
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ShubhamkumarAnand"><img src="https://github-readme-stats.vercel.app/api?username=ShubhamkumarAnand&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShubhamkumarAnand's GitHub stats" /></a>
-
-<a href="http://www.github.com/ShubhamkumarAnand"><img src="https://activity-graph.herokuapp.com/graph?username=ShubhamkumarAnand&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
