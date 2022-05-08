@@ -1,10 +1,12 @@
 # <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello!+I%27m+Shubham.">
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
 </div>
 
 ### <h1> I'm Shubham Kumar Anand 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
 ## A Computer Science Student and Full Stack Developer.
 
 - 🌱 I’m currently learning Flutter App Development.
@@ -17,7 +19,26 @@
  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShubhamkumarAnand">
 </div>
 
-<br />
+---
+
+## 📬: Reach me out!
+
+<div align='center'>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/imskanand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimskanand&screen_name=imskanand)
+[![GitHub ShubhamkumarAnand](https://img.shields.io/github/followers/ShubhamkumarAnand?label=follow&logo=github&color=1DA1F2&style=for-the-badge)](https://github.com/ShubhamkumarAnand)
+<a href="https://www.linkedin.com/in/shubham-kumar-anand-19b52618b/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-ShubhamKumarAnand-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"  height="28" /></a>
+<a href="mailto:ishubham11anand@gmail.com">
+<img src="https://img.shields.io/badge/-ishubham11anand-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"  height="28">
+</a>
+
+</div>
+<div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people with different Ideas to Learn and Grow together</>
+</div>
+
+---
 
 ## &#x1f4c8; GitHub Stats
 
@@ -38,6 +59,8 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShubhamkumarAnand&theme=discord&column=8">
 </div>
+
+---
 
 ## 🔧 Technologies & Tools I can work with :
 
@@ -70,9 +93,11 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+---
 
-## Little More 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## Little More
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const imskanand = {
@@ -87,18 +112,3 @@ const imskanand = {
  challenge: "Writing technical blog and Connecting the people"
 }
 ```
-
-## 📬: Reach me out!
-
-<div align='center'>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/imskanand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimskanand&screen_name=imskanand)
-[![GitHub ShubhamkumarAnand](https://img.shields.io/github/followers/ShubhamkumarAnand?label=follow&logo=github&color=1DA1F2&style=for-the-badge)](https://github.com/ShubhamkumarAnand)
-<a href="https://www.linkedin.com/in/shubham-kumar-anand-19b52618b/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-ShubhamKumarAnand-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"  height="28" /></a>
-<a href="mailto:ishubham11anand@gmail.com">
-  <img src="https://img.shields.io/badge/-ishubham11anand-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"  height="28">
-</a>
-</div>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people with different Ideas to change the world</>
-  
