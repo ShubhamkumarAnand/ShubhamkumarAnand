@@ -7,7 +7,7 @@
 
 ### <h1> I'm Shubham Kumar Anand 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-## A Computer Science Student and Full Stack Developer.
+## A Computer Science Student and Full Stack Developer
 
 - 🌱 I’m currently learning Flutter App Development.
 - 💞️ I’m looking to collaborate on Learning Web Development project which can solve the real world Problem.
@@ -21,7 +21,7 @@
 
 ---
 
-## 📬: Reach me out!
+## 📬: Reach me out
 
 <div align='center'>
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🔧 Technologies & Tools I can work with :
+## 🔧 Technologies & Tools I can work with
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -97,18 +97,18 @@
 
 ## Little More
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 
 ```javascript
 const imskanand = {
-  pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, C++, C, Python, Java, MySQL, Dart],
-  tools: [React, Flutter, Node, Tailwind, PHP, Git & Github, Linux, Docker],
+  Name: [Shubham Kumar Anand : Shubham Pandey],
+  Code: [Javascript, Typescript, HTML, CSS, C++, C, Python, Java, MySQL, Dart],
+  Tools: [React, Flutter, Node, Tailwind, PHP, Git & Github, Linux, Docker],
   Currently Working : {
                        Main: "MERN Stack Web Development",
                        Good At: "Data Structure and Algorithm",
                        Future: "Making Impact with the Technology"
                       },
- challenge: "Writing technical blog and Connecting the people"
+ Challenge: "Writing technical blog and Connecting the people"
 }
 ```
