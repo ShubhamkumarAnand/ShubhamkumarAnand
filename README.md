@@ -101,7 +101,7 @@
 
 ```javascript
 const imskanand = {
-  Name: [Shubham Kumar Anand : Shubham Pandey],
+  Name: "Shubham Kumar Anand" | "Shubham Pandey",
   Code: [Javascript, Typescript, HTML, CSS, C++, C, Python, Java, MySQL, Dart],
   Tools: [React, Flutter, Node, Tailwind, PHP, Git & Github, Linux, Docker],
   Currently Working : {
