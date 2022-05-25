@@ -50,15 +50,6 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=radical" width="60%">
 </div>
-<hr>
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ShubhamkumarAnand&theme=react-dark&hide_border=true&area=true">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamkumarAnand&theme=discord&column=8">
-</div>
 
 ---
 
