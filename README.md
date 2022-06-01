@@ -9,7 +9,7 @@
 
 ## A Computer Science Student and Full Stack Developer
 
-- 🌱 I’m currently learning Flutter App Development.
+- 🌱 I’m currently learning Devops & Flutter App Development.
 - 💞️ I’m looking to collaborate on Learning Web Development project which can solve the real world Problem.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 Reach me via Twitter LinkedIn & G-Mail
