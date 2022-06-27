@@ -1,4 +1,7 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello!+I%27m+Shubham.">
+<p align="center"><img src="animation.gif" width="35%"></p>
+<div style=" font-size: medium; color: #447ff7" align=center>
+
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+Devs!++I'm+Shubham+;A+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
@@ -38,9 +41,13 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people with different Ideas to Learn and Grow together</>
 </div>
 
----
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ## &#x1f4c8; GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=ShubhamkumarAnand&color=447ff7&label=Visitor+count)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamkumarAnand&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175px">
@@ -48,8 +55,10 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=radical" width="60%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=tokyonight">
 </div>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=ShubhamkumarAnand&theme=react-dark"/>
 
 ---
 
@@ -103,3 +112,7 @@ const imskanand = {
  Challenge: "Writing technical blog and Connecting the people"
 }
 ```
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
