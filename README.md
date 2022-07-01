@@ -10,12 +10,12 @@
 
 ### <h1> I'm Shubham Kumar Anand 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-## A Computer Science Student and Full Stack Developer
+## Full Stack Developer (CSE '23)
 
-- 🌱 I’m currently learning Devops & Flutter App Development.
-- 💞️ I’m looking to collaborate on Learning Web Development project which can solve the real world Problem.
+- 🌱 I’m currently learning Full stack Development.
+- 💞️ I’m looking to collaborate on Web Development project which can be used in real world.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 Reach me via Twitter LinkedIn & G-Mail
+- 📫 Reach me via Twitter LinkedIn & G-Mail.
 
 <div>
  <img src="https://komarev.com/ghpvc/?username=ShubhamkumarAnand&style=plastic">
