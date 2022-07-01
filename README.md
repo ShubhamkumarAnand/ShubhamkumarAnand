@@ -8,7 +8,7 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
 </div>
 
-### <h1> I'm Shubham Kumar Anand 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ## Full Stack Developer (CSE '23)
 
@@ -35,9 +35,12 @@
 <a href="mailto:ishubham11anand@gmail.com">
 <img src="https://img.shields.io/badge/-ishubham11anand-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"  height="28">
 </a>
+<a href="https://drive.google.com/file/d/16_b_F-9lgx1M2k-3qsfj2BxjK_k5Ist_/view?usp=sharing">
+<img src="https://img.shields.io/badge/%20%F0%9F%93%9C-Resume-brightgreen&style=flat&labelColor=c0392b" height="28"></a>
 
 </div>
-<div>
+
+<div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people with different Ideas to Learn and Grow together</>
 </div>
 
@@ -55,10 +58,10 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=tokyonight">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=tokyonight"  height="175px">
 </div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ShubhamkumarAnand&theme=react-dark"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ShubhamkumarAnand&theme=react-dark" height="175px"/>
 
 ---
 
