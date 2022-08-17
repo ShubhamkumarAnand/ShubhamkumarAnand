@@ -12,12 +12,13 @@
 
 ## Full Stack Developer (CSE '23)
 
-- 🌱 I’m currently learning Full stack Development.
+- 🌱 Currently Learning Full stack Development.
 - 💞️ I’m looking to collaborate on Web Development project which can be used in real world.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 Reach me via Twitter LinkedIn & G-Mail.
 
-<div>
+ <div>
+ [![QR Code Generator](https://github.com/ShubhamkumarAnand/QR-Code-Generator/actions/workflows/actions.yml/badge.svg)](https://github.com/ShubhamkumarAnand/QR-Code-Generator/actions/workflows/actions.yml)
  <img src="https://komarev.com/ghpvc/?username=ShubhamkumarAnand&style=plastic">
  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShubhamkumarAnand">
 </div>
