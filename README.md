@@ -17,8 +17,8 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 Reach me via Twitter LinkedIn & G-Mail.
 
+  [![QR Code Generator](https://github.com/ShubhamkumarAnand/QR-Code-Generator/actions/workflows/actions.yml/badge.svg)](https://github.com/ShubhamkumarAnand/QR-Code-Generator/actions/workflows/actions.yml)
  <div>
- [![QR Code Generator](https://github.com/ShubhamkumarAnand/QR-Code-Generator/actions/workflows/actions.yml/badge.svg)](https://github.com/ShubhamkumarAnand/QR-Code-Generator/actions/workflows/actions.yml)
  <img src="https://komarev.com/ghpvc/?username=ShubhamkumarAnand&style=plastic">
  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShubhamkumarAnand">
 </div>
