@@ -18,8 +18,7 @@
   <a href="https://codeforces.com/profile/ShubhamkumarAnand">
     <img src="https://raw.githubusercontent.com/ShubhamkumarAnand/cf-stats/main/output/rating.svg" alt="Codeforces rating" />
   </a>
-
-<img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShubhamkumarAnand">
+  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShubhamkumarAnand">
 </p>
 
 ## Full Stack Developer (CSE '23)
