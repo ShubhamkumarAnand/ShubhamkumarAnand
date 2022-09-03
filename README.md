@@ -11,12 +11,15 @@
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhamkumarAnand&style=plastic">
   <a href="https://leetcode.com/imskanand/">
     <img src="https://cp-logo.vercel.app/leetcode/imskanand" alt="Leetcode rating" />
   </a>
   <a href="https://codeforces.com/profile/ShubhamkumarAnand">
     <img src="https://raw.githubusercontent.com/ShubhamkumarAnand/cf-stats/main/output/rating.svg" alt="Codeforces rating" />
   </a>
+
+<img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShubhamkumarAnand">
 </p>
 
 ## Full Stack Developer (CSE '23)
@@ -27,9 +30,9 @@
 - 📫 Reach me via Twitter LinkedIn & G-Mail.
 
   [![QR Code Generator](https://github.com/ShubhamkumarAnand/QR-Code-Generator/actions/workflows/actions.yml/badge.svg)](https://github.com/ShubhamkumarAnand/QR-Code-Generator/actions/workflows/actions.yml)
+
  <div>
- <img src="https://komarev.com/ghpvc/?username=ShubhamkumarAnand&style=plastic">
- <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShubhamkumarAnand">
+
 </div>
 
 ---
@@ -57,9 +60,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 </div>
-## &#x1f4c8; GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=ShubhamkumarAnand&color=447ff7&label=Visitor+count)
+## &#x1f4c8; GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamkumarAnand&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175px">
