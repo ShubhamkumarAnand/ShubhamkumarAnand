@@ -21,7 +21,7 @@
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShubhamkumarAnand">
 </p>
 
-## Full Stack Developer (CSE '23)
+# Full Stack Developer (CSE '23)
 
 - 🌱 Currently Learning Full stack Development.
 - 💞️ I’m looking to collaborate on Web Development project which can be used in real world.
