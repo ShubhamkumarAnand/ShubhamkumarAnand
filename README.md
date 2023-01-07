@@ -70,9 +70,7 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=tokyonight"  height="175px">
 </div>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=ShubhamkumarAnand&theme=react-dark" height="175px"/>
-
+    
 ---
 
 <b>&#128200; Competitive Programming</b>
