@@ -66,7 +66,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamkumarAnand&layout=compact)
 
-div align="center">
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=tokyonight"  height="175px">
 </div>
     
