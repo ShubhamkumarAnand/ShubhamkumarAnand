@@ -64,7 +64,7 @@
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamkumarAnand&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamkumarAnand&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdevries&layout=compact)
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=tokyonight"  height="175px">
