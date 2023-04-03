@@ -25,23 +25,23 @@
 <h1 align="center"> नमस्ते , Hello 👋 Shubham Here!</h1>
 <h3 align="center">A passionate frontend developer from India aspiring to be FullStack Developer</h3>
     
-- 🔭 I’m currently working on [Kwooter](https://kwooter.vercel.app)
+- 🔭 Currently working : **[Telework](https://telework-hotels.vercel.app)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Currently learning : **React Native** & **Rust-Lang** with _Nvim_ 🤯
 
-- 👯 I’m looking to collaborate on [Kwooter](Kwooter)
+- 👯 Can you help me to Build my project by Collaborating on [Telework](https://telework-hotels.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://imskanand-portfolio.vercel.app](https://imskanand-portfolio.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@imskanand](https://medium.com/@imskanand)
 
-- 💬 Ask me about **Next, Typescript, Tailwind**
+- 💬 Ask me about **Next, Typescript, Tailwind** & **General Software Development**
 
 - 📫 How to reach me **ishubham11anand@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-tWzdlB49OksCnOh1VQUXN8X72Fgra3m/view?usp=sharing](https://drive.google.com/file/d/1-tWzdlB49OksCnOh1VQUXN8X72Fgra3m/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1-tWzdlB49OksCnOh1VQUXN8X72Fgra3m/view?usp=sharing](https://drive.google.com/file/d/1-tWzdlB49OksCnOh1VQUXN8X72Fgra3m/view?usp=sharing))
 
-- ⚡ Fun fact **I love Freebies 😌🤭**
+- ⚡ Fun fact **I love Freebies 😌🤭** & **a Generalist By nature 🔎**
 <div>
 
 ---
@@ -72,8 +72,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamkumarAnand&show_icons=true&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=tokyonight">
+<div style="display: flex;"> 
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamkumarAnand&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=tokyonight"/>
+</div>
     
 ---
 
@@ -102,17 +104,15 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left" style="display: flex;">
 
 <a href="https://twitter.com/imskanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imskanand" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imskanand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imskanand/" height="30" width="40" /></a>
 <a href="https://medium.com/@imskanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imskanand" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imskanad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imskanad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imskanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imskanand" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/imskanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imskanand" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imskanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imskanand" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/imskanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imskanand" height="30" width="40" /></a>
-</p>
+</div>
 
 <!-- # Blog posts -->
 
