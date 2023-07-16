@@ -70,24 +70,6 @@
 <br>
 </div>
 
-## &#x1f4c8; GitHub Stats
-
-<div style="display: flex;"> 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamkumarAnand&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamkumarAnand&theme=tokyonight"/>
-</div>
-    
----
-
-<b>&#128200; Competitive Programming</b>
-
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/imskanand?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/ShubhamkumarAnand/cf-stats/main/output/light_card.svg"/>
-</p>
-
----
-
 ##  🔧 Tech I'm passionate about
 <div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
