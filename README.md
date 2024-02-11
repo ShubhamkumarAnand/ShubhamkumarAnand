@@ -1,9 +1,11 @@
+**More than code, I craft experiences.** ✨
+
 Hello 👋, I'm **Shubham**, a passionate software engineer with a relentless pursuit of **Learning & Perfection** 🧐.
 
-I'm not just a coder; I'm a creative **Technophile** driven by the beauty of design, a relentless curiosity to explore the infinite horizons of technology, and a deep love for crafting high-quality, thoughtful software ⚡.
+Driven by design's elegance, fueled by boundless tech curiosity, and passionate about thoughtful software, I'm not just a coder – **I'm a Technophile Artist**.
 
-Embarking on a journey through the realms of technology, where the possibilities are endless, and the **Pursuit of Excellence** is my guiding star.
+Embarking on a *limitless* exploration, I navigate the tech realms, guided by the relentless pursuit of excellence. Join me on this journey, where possibilities ignite and innovation thrives.
 
-**Tech Stack** - *Typescript*, **Reactjs**, *Nodejs*, *PostgreSQL* & **Anything new as well as intresting in Technology** 😉
+**Tech Stack** - *JavaScript/Typescript*, **Next/React**, *Express/Node*, *PostgreSQL* & **Tech solving my problem!** 😉
 
 **Connect** - [Linkdin](https://www.linkedin.com/in/imskanand/), [Twitter](https://twitter.com/imskanand) & [Personal Website](https://imskanand.vercel.app/)
